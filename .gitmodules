@@ -1,0 +1,6 @@
+[submodule "libconsumer/substrait"]
+	path = libconsumer/substrait
+	url = https://github.com/substrait-io/substrait.git
+[submodule "libproducer/substrait"]
+	path = libproducer/substrait
+	url = https://github.com/substrait-io/substrait.git
